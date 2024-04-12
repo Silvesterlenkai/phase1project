@@ -24,7 +24,7 @@ You use git remote add origin to be able to download the documents in the GitHub
 Git
 ## Installation instruction
 
-Git remote add origin 
+Git remote add origin git@github.com:Silvesterlenkai/phase1project.git
 ## Technologies used
 
 HTML Github Javascript css bootstrap
